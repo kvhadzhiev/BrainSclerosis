@@ -1,0 +1,12 @@
+textarea#source {
+	background-color: black;
+	color: white;
+}
+
+textarea#output {
+	background-color: gray;
+}
+
+textarea#debug {
+	font-weight: lighter;
+}
