@@ -1,2 +1,3 @@
 # BrainSclerosis
-Simple web-based Brainf*ck interpretator.
+
+Minimal web-based Brainf*ck interpretator.
